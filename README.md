@@ -3,7 +3,7 @@ A on-chain Bitcoin Proof-of-Reserves platform on the Bitcoin blockchain.
 
 <!-- image -->
 <p align="center">
-  <img src="tree-reserves.png" alt="" width="600" class="center" style="margin-left: 100px;"/>
+  <img src="tree-reserves.png" alt="" width="700" class="center" style="margin-left: 100px;"/>
 </p>
 
 <b> Abstract </b> </br>
