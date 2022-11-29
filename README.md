@@ -9,9 +9,6 @@ A on-chain Bitcoin Proof-of-Reserves platform on the Bitcoin blockchain.
 <b> Abstract </b> </br>
 Central exchanges and lenders need decentralized control. zkReserves is a distrbuted system using zk verification to prove the reserve holdings from the largest to smallest exchanges in the world. The CEX hack era began roughly around 2011 where projects from Mt. Gox, Bitcoin7, Bitfloor, BitMarket.eu and more imploded. Even till this day, FTX and Celsius has brought users to a halt with retracement to fundamentals such as owning private keys and DYOR on not just alt-coins but platforms and applications. Contagion creates a domino effect that impacts the entire industry during periods of low liquidity (bear markets/crashes). zkReserves helps navigate who is real and who is fake.
 
-<b> Hack History </b> </br>
-
-
 
 Sneak peek of sCrypt code here :star: :
 ```
@@ -57,3 +54,7 @@ sCrypt allows for AI/ML integration for both computer vision and natural languag
 
 ## What's next for zkReserve Lite
 Transferring from sCrypt smart contracts to Clarity by Stacks may be another avenue for Bitcoin blockchain exposure thanks to Taproot upgrade.
+
+```
+git clone https://github.com/BubblyOrca/zkReserves.git
+```
