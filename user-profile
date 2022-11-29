@@ -1,0 +1,21 @@
+const Contract = buildContractClass(loadDescription('person_desc.json'));
+
+/*Person is structure and Consumer (end-user) and Exchange are type aliases */
+const { User, Consumer, Exchange } = buildTypeClasses(UserContract);
+
+let consumer = new User({
+    isCustomer: true,
+    location: Egypt,
+    addr: new Bytes("68656c6c6f20776f726c6421")
+  });
+
+consumer.age = 20;
+
+/* Code below new users to the zkReserve platform */
+let exchange = new User({
+    isCustomer: false,
+    location: Cayman Islands,
+    addr: new Bytes("68656c6c6f20776f726c6421")
+  });
+
+exchange.addr = new Bytes("")
